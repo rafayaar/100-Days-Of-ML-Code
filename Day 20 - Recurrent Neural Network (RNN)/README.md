@@ -3,4 +3,4 @@
 - It is simple as it could be.
 - Data was not cleaned
 - Model gave good results. Tokenizer was intialized and mapped on text of reviews
-- Simple prediction was done
+- Simple prediction was done.
