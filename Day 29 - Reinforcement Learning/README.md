@@ -1,0 +1,4 @@
+## Day 29 - Reinforcment Learning
+- The code implements Q-learning, a reinforcement learning algorithm, to find an optimal policy for a grid-based environment with obstacles, a start state (S), and a goal state (G).
+- It uses an epsilon-greedy policy for action selection, balancing exploration and exploitation. The Q-values are updated iteratively based on the Q-learning formula, incorporating a learning rate and a discount factor.
+- The code calculates and prints the learned Q-table, representing the expected cumulative rewards for each state-action pair, and then determines the optimal policy by selecting actions with the highest Q-values for each state.
