@@ -1,4 +1,4 @@
-## Day 35 - Time Series Analysis
+## Day 36 - Time Series Analysis
 
 - ARIMA models are defined by their order parameters: p, d, and q. "p" represents the order of autoregressive terms, "d" indicates the degree of differencing needed to make the time series stationary, and "q" signifies the order of moving average terms. Choosing the right values for these parameters is crucial for model effectiveness.
 
