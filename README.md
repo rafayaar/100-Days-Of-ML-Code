@@ -25,7 +25,7 @@ I am excited to embark on this 100-day journey of coding in machine learning. I 
 
 Let's dive in and make the most of these 100 days of machine learning code!
 
-Happy coding!
+Happy coding!!!
 
 
 
